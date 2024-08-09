@@ -1,6 +1,3 @@
-Here's a `README.md` file for your app:
-
-```markdown
 # Simple: IP Addressing
 
 ## Description
@@ -13,9 +10,6 @@ This is a simple Python script I created during my CISCO Networking course to ve
 2. Navigate to the directory where `IP_Addressing.py` is located.
 3. Run the script by typing:
 
-   ```bash
-   python IP_Addressing.py
-   ```
 
 4. Follow the prompts to enter the IP address and the number of hosts for each network.
 
