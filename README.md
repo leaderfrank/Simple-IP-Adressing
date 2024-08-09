@@ -21,6 +21,8 @@ When you run the script, it will ask for an IP address and the number of hosts f
 python IP_Addressing.py
 ```
 
+![Recording 2024-08-09 105544](https://github.com/user-attachments/assets/b7ec7782-16b7-45f0-ae0f-643944bcf6d8)
+
 **Input:**
 
 ```plaintext
